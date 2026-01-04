@@ -1,0 +1,7 @@
+han-shu chu():kung {
+    ta-yin-hang("=== 菜鸡语言演示程序 ===");
+    ta-yin-hang("Tse-shih 1: Ni-hao\nShih-chieh");
+    ta-yin-hang("Tse-shih 2: Chih-piao-fu\tFen-ko");  
+    ta-yin-hang("Tse-shih 3: Yin-hao\"Tse-shih");
+    ta-yin-hang("Tse-shih 4: Fan-hsieh-kang\\Tse-shih");
+}
